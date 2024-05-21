@@ -1,0 +1,85 @@
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.runtimeconfig.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\refint\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_DAL\obj\Debug\net8.0\ref\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.runtimeconfig.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\refint\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_DAL\obj\Debug\net8.0\ref\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.runtimeconfig.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\refint\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_DAL\obj\Debug\net8.0\ref\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.runtimeconfig.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\refint\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_DAL\obj\Debug\net8.0\ref\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.deps.json
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.runtimeconfig.json
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.csproj.CopyComplete
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\refint\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\Siparis_DAL.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_DAL\obj\Debug\net8.0\ref\Siparis_DAL.dll

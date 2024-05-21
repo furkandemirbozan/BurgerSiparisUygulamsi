@@ -1,0 +1,380 @@
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.exe
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.runtimeconfig.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form1.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form2.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.FormWorker.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.ProductForm.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.GenerateResource.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\refint\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\ref\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Login_Forms.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms_1.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms2.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.exe
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.runtimeconfig.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form1.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form2.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.FormWorker.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms2.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms_1.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Login_Forms.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.ProductForm.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.GenerateResource.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\refint\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\ref\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form1.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form2.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.FormWorker.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms2.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms_1.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Login_Forms.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.ProductForm.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.GenerateResource.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\refint\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.exe
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.runtimeconfig.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\ref\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.exe
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.runtimeconfig.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form1.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form2.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.FormWorker.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms2.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms_1.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Login_Forms.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.ProductForm.resources
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.GenerateResource.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\refint\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\ref\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.exe
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.deps.json
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.runtimeconfig.json
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\bin\Debug\net8.0-windows\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form1.resources
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Form2.resources
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.FormWorker.resources
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms2.resources
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.LoginForms_1.resources
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.Login_Forms.resources
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.ProductForm.resources
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.GenerateResource.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.csproj.CopyComplete
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\refint\Siparis_WindowsUI.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\Siparis_WindowsUI.genruntimeconfig.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_WindowsUI\obj\Debug\net8.0-windows\ref\Siparis_WindowsUI.dll

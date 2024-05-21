@@ -1,0 +1,85 @@
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\refint\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\ref\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\refint\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş - Kopya - Kopya (2)\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\ref\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\refint\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -Emre\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\ref\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.deps.json
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CopyComplete
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\refint\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\HardCore Sipariş -YEMİN EDERİM SON\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\ref\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.deps.json
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_DAL.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\bin\Debug\net8.0\Siparis_Entities.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.AssemblyReference.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfoInputs.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.AssemblyInfo.cs
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.csproj.CopyComplete
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\refint\Siparis_Bussiness.dll
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\Siparis_Bussiness.pdb
+C:\Users\HP\Masaüstü\Furkan Demirbozan\Siparis_App\Siparis_Bussiness\obj\Debug\net8.0\ref\Siparis_Bussiness.dll
